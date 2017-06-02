@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MagnitTest</string>
+    <string name="button">Button</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="rate">rate</string>
+    <string name="rate_percent">%(0.1)</string>
+    <string name="row">Row</string>
+    <string name="row_number">rowNumber</string>
+</resources>
